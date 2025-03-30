@@ -52,7 +52,7 @@ https://api.openweathermap.org/data/2.5/weather?q={city}&appid={YOUR_API_KEY}&un
 ## 📦 Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/weather-dashboard.git
+   git clone https://github.com/KeerthiKumarK/weather-dashboard.git
    ```
 2. **Navigate to the project directory:**
    ```sh
