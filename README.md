@@ -75,7 +75,7 @@ https://api.openweathermap.org/data/2.5/weather?q={city}&appid={YOUR_API_KEY}&un
    ```
 
 ## 📸 Screenshots
-🚧 *(Add screenshots here after development.)*
+ 
 ![image](https://github.com/user-attachments/assets/39031c8d-0525-441a-bdf0-a8a299f0757f)
 ![image](https://github.com/user-attachments/assets/b105778c-f113-4b29-b807-3c2c65142052)
 
